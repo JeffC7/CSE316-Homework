@@ -32,3 +32,12 @@ In this course, I learned about the Fundamentals of Software Development and dev
 - Liking/Disliking published playlists
 - Commenting on published playlists
 - Undo/Redo transactions for adding, deleting, and editing songs
+
+## Technologies Used:
+- HTML/CSS
+- Javascript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Axios
